@@ -6,8 +6,6 @@ Incredible, one of a kind, never before seen, o-matic Starcraft 2 Map Ranking ma
 
 -Ok now, Drop down the "assets" box. It may already be dropped down.
 
-Wow! such good!
-
 -click the .exe file and download.
 
 -Open the exe file.
